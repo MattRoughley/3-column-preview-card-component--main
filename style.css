@@ -143,6 +143,7 @@ body{
 
     width: 1440px;
     height: 400px;
+    padding: 1.6em;
     display: flex;
     flex-direction: row;
     align-items: center;
